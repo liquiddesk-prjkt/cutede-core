@@ -174,9 +174,9 @@ void Application::initEnvironments()
         qputenv("XDG_CONFIG_DIRS", "/etc/xdg");
 
     // Environment
-    qputenv("DESKTOP_SESSION", "Cutefish");
-    qputenv("XDG_CURRENT_DESKTOP", "Cutefish");
-    qputenv("XDG_SESSION_DESKTOP", "Cutefish");
+    qputenv("DESKTOP_SESSION", "CuteDE");
+    qputenv("XDG_CURRENT_DESKTOP", "CuteDE");
+    qputenv("XDG_SESSION_DESKTOP", "CuteDE");
 
     // Qt
     qputenv("QT_QPA_PLATFORMTHEME", "cutefish");
