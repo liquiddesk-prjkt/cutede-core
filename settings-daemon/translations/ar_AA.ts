@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>ago</source>
-        <translation type="vanished">vergangen</translation>
+        <translation>مضي</translation>
     </message>
 </context>
 <context>
@@ -117,6 +117,22 @@
         <source>Unknown</source>
         <comment>battery technology</comment>
         <translation>غير معروف</translation>
+    </message>
+  </context>
+<context>
+    <name>Language</name>
+    <message>
+        <location filename="../language/language.cpp" line="62"/>
+        <source>لغة النظام قد تغيرت, برجاء تسجيل الخروج والدخول مرة اخري</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ThemeManager</name>
+    <message>
+        <location filename="../theme/thememanager.cpp" line="211"/>
+        <source>تغيير حجم الشاشة يتطلب معاودة تسجيل الدخول لأخذ التغييرات</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
